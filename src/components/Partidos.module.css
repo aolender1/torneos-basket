@@ -1,0 +1,20 @@
+.tablaPartidos {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .tablaPartidos th, .tablaPartidos td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .tablaPartidos th {
+    background-color: #f2f2f2;
+  }
+  
+  .logo {
+    width: 30px;
+    height: 30px;
+  }

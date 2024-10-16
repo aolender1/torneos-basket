@@ -1,0 +1,8 @@
+.main {
+  display: flex;
+  justify-content: space-between; /* Espacio entre las secciones */
+  align-items: flex-start; /* Alinea las secciones al inicio verticalmente */
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}

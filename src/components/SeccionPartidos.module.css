@@ -1,0 +1,11 @@
+.seccionPartidos {
+  flex: 1;
+  padding: 10px;
+  background-color: #e9ecef;
+}
+
+.titulo {
+  margin-bottom: 10px; /* Espacio entre el título y la tabla */
+  text-align: center; /* Centrar el título */
+  font-size: 1.5rem; /* Tamaño de fuente más grande para el título */
+}

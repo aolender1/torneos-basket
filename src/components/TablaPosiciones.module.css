@@ -1,0 +1,15 @@
+.tablaPosiciones {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .tablaPosiciones th, .tablaPosiciones td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .tablaPosiciones th {
+    background-color: #f2f2f2;
+  }

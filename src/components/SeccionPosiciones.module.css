@@ -1,0 +1,18 @@
+.seccionPosiciones {
+  flex: 1;
+  padding: 10px;
+  background-color: #e9ecef;
+}
+
+.titulo {
+  margin-bottom: 10px; /* Espacio entre el título y la tabla */
+  text-align: center; /* Centrar el título */
+  font-size: 1.5rem; /* Tamaño de fuente más grande para el título */
+}
+
+.explicacion {
+  margin-top: 20px; /* Espacio entre la tabla y el párrafo */
+  font-size: 0.8rem; /* Tamaño de fuente más pequeño para el párrafo */
+  color: #555; /* Color de texto más suave */
+  line-height: 1.4; /* Espaciado entre líneas */
+}

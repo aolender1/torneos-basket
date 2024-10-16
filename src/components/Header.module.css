@@ -1,0 +1,19 @@
+.header {
+    overflow: visible;
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 1rem 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    box-sizing: border-box;
+  }
+  
+  .headerText {
+    font-size: 2rem;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+  }
